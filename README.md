@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Eu sou Juan 👋</h1>
+<h1 align="center">Olá! Eu sou o Juan 👋</h1>
 
 <p align="center">
   Estudante de Sistemas para Internet no IFRN 🎓
