@@ -1,4 +1,3 @@
-
 <h1 align="center">Olá! Eu sou o Juan 👋</h1>
 
 <p align="center">
@@ -19,19 +18,22 @@
 ### 🛠️ Tecnologias e ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,mysql,git,github,vscode" />
-</p>
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=juanbpe&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://skillicons.dev/icons?i=azure,python,django,html,css,js,nodejs,react,mysql,git,github" />
 </p>
 
 ### 📫 Entre em contato
 
-<p>
-  <a href="https://github.com/juanbpe">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" />
+<p align="left">
+  <a href="https://github.com/juanbpe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juanbarrosp11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/juanbpe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/juanbpe/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
