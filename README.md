@@ -13,8 +13,6 @@
 
 - 🎓 Cursando Sistemas para Internet no IFRN.
 - 💻 Interessado em desenvolvimento web e criação de aplicações.
-- 🐍 Estudando Python e Django para desenvolvimento backend.
-- ⚛️ Explorando React e JavaScript no frontend.
 - 🚀 Desenvolvendo projetos acadêmicos e pessoais para colocar conhecimentos em prática.
 - 📚 Sempre aprendendo algo novo e buscando evoluir como desenvolvedor.
 
@@ -23,11 +21,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,mysql,git,github,vscode" />
 </p>
-
-### 📌 Projetos em destaque
-
-- **PedeAió** — Aplicação web para pedidos e entregas, desenvolvida com Django.
-- **AdotaPet** — Projeto web de adoção de animais desenvolvido com React.
 
 ### 📊 Estatísticas do GitHub
 
