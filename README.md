@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**juanbpe/juanbpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá! Eu sou Juan 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudante de Sistemas para Internet no IFRN 🎓
+  <br>
+  Desenvolvedor em formação, explorando o mundo da tecnologia e do desenvolvimento web.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre mim
+
+- 🎓 Cursando Sistemas para Internet no IFRN.
+- 💻 Interessado em desenvolvimento web e criação de aplicações.
+- 🐍 Estudando Python e Django para desenvolvimento backend.
+- ⚛️ Explorando React e JavaScript no frontend.
+- 🚀 Desenvolvendo projetos acadêmicos e pessoais para colocar conhecimentos em prática.
+- 📚 Sempre aprendendo algo novo e buscando evoluir como desenvolvedor.
+
+### 🛠️ Tecnologias e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,mysql,git,github,vscode" />
+</p>
+
+### 📌 Projetos em destaque
+
+- **PedeAió** — Aplicação web para pedidos e entregas, desenvolvida com Django.
+- **AdotaPet** — Projeto web de adoção de animais desenvolvido com React.
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=juanbpe&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+</p>
+
+### 📫 Entre em contato
+
+<p>
+  <a href="https://github.com/juanbpe">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
